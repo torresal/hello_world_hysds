@@ -1,4 +1,9 @@
 {
   "label": "Hello World",
-  "params": []
+  "params": [
+    {
+      "name": "id",
+      "from": "submitter"
+    }
+]
 }
