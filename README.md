@@ -2,7 +2,7 @@
 
 ### Purpose: 
 To test the HySDS system for:
-- PGE integration
+- PGE Integration
 - HySDS IO
 - Continuous Integration
 - Dataset Publishing
