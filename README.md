@@ -9,7 +9,7 @@ To test the HySDS system for:
 - SDS CLI 
 - HySDS Configurations
 
-### Supporting Documentation
+### Documentation:
 
 - Hello World Documentation: https://hysds-core.atlassian.net/wiki/spaces/HYS/pages/200081669/Hello+World-+Installation-GitHub
 
