@@ -1,10 +1,5 @@
 {
-  "label": "Hello World",
+  "label": "Hello World Demo",
   "submission_type": "individual",
-  "params": [
-    {
-      "name": "id",
-      "from": "submitter"
-    }
-]
+  "params": []
 }
