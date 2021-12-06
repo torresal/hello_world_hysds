@@ -2,8 +2,8 @@
   "command": "/home/ops/verdi/ops/hello_world/run_hello_world.sh",
   "recommended-queues": [ "job_worker-small" ],
   "disk_usage":"1GB",
-  "soft_time_limit": 100,
-  "time_limit": 100,
+  "soft_time_limit": 1000,
+  "time_limit": 1000,
   "params": [   
     {
       "name": "id",
